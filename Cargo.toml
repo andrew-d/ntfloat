@@ -1,0 +1,4 @@
+[package]
+name = "ntfloat"
+version = "0.1.0"
+authors = ["Andrew Dunham <andrew@du.nham.ca>"]
